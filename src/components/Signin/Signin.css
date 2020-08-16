@@ -1,0 +1,33 @@
+.signin{
+	background-color: #e9f2e9;
+	width: 400px;
+	height: 300px;
+	padding:50px;
+	margin: auto;
+	margin-top: 100px;
+}
+.form{
+    height: 300px !important;
+    display: flex;
+    flex-direction: column;
+}
+.form>h1{
+   margin-left:0px;
+   margin-bottom: 5px;
+}
+button{
+	line-height: 30px;
+	margin-top: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	background-color: #ebab34;
+    border-radius: 5px;
+    cursor: pointer;
+    border:none;
+    margin-bottom: 30px;
+}
+.board__registerbutton{
+	text-decoration: underline;
+	color: blue;
+	cursor: pointer;
+}
